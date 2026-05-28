@@ -1,0 +1,11 @@
+<NODES>
+A
+F
+H
+M
+
+<EDGES>
+A -> F
+A -> H
+F -> H
+H -> M

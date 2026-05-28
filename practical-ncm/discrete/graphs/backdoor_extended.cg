@@ -1,0 +1,17 @@
+<NODES>
+Z
+X
+Y
+M
+
+<EDGES>
+Z -> X
+Z -> Y
+X -> Y
+Y -> M
+
+<DOMAINS>
+Z: 5
+X: 3
+Y: 4
+M: 3
